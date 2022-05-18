@@ -14,6 +14,8 @@ const SlotM =(props)=>{
         <hr/>
       </div>
     )
+
+    
   }else{
     return(
     <div className='slot_inner'>
